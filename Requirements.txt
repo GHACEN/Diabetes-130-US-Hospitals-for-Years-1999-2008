@@ -1,0 +1,55 @@
+Dans le cadre du Lab consacré à la préparation des données, je vous partage ci-dessous les deux datasets qui serviront de base à votre travail.
+L’objectif de ce Lab est de vous familiariser avec les différentes étapes de Data Preparation, qui constituent une phase essentielle de tout projet Data Science. La qualité de la préparation des données peut avoir un impact significatif sur les performances des modèles et sur la qualité des analyses réalisées.
+• 1. Exploration et visualisation du dataset
+• Vous devrez commencer par comprendre et explorer les données afin notamment de :
+• identifier les principales caractéristiques du dataset 
+• analyser les distributions des variables 
+• identifier d’éventuelles tendances ou relations entre les variables 
+• détecter les anomalies potentielles 
+• visualiser les aspects importants des données à l’aide de graphiques pertinents.
+• 2. Nettoyage et transformation des données
+• Vous devrez ensuite appliquer les techniques de Data Cleaning & Data Transformation nécessaires afin de traiter, selon les problèmes rencontrés dans votre dataset :
+• les valeurs manquantes 
+• les valeurs aberrantes (outliers) 
+• les variables catégorielles 
+• les variables numériques et leurs distributions 
+• les éventuelles transformations nécessaires 
+• le feature engineering, lorsque cela est pertinent 
+• et, plus généralement, tout autre problème de qualité identifié lors de votre analyse.
+• Important : vous devez justifier les choix effectués. Il ne s’agit pas uniquement d’appliquer des techniques, mais d’expliquer pourquoi elles sont nécessaires et pourquoi vous avez choisi une méthode plutôt qu’une autre.
+• 3. Segmentation et classification
+• En complément de la préparation des données, vous devrez également mettre en pratique les notions de segmentation (clustering) et de classification étudiées l’année dernière.
+• Vous devrez donc, en fonction du dataset choisi :
+• identifier une problématique pertinente de segmentation et appliquer une méthode de clustering adaptée 
+• identifier une problématique pertinente de classification et appliquer un ou plusieurs modèles étudiés 
+• préparer les données de manière appropriée avant l'application des algorithmes 
+• analyser et interpréter les résultats obtenus 
+• utiliser des métriques d'évaluation adaptées pour mesurer la qualité des modèles.
+• L'objectif est de réutiliser et consolider les connaissances acquises l'année dernière dans le contexte d'un problème Data Science réel.
+• 📊 Datasets proposés
+• Vous pouvez travailler sur l'un des deux datasets suivants :
+• 1. Adult – Census Income Dataset
+Dataset portant notamment sur les caractéristiques socio-professionnelles des individus et la prédiction du niveau de revenu.
+• Adult – Census Income Dataset (UCI)
+• 2. Diabetes 130-US Hospitals for Years 1999–2008
+Dataset contenant des informations hospitalières relatives aux patients diabétiques, aux séjours hospitaliers et aux traitements.
+• Diabetes 130-US Hospitals Dataset (UCI)
+--> Livrables
+• Chaque groupe devra soumettre :
+• Un notebook détaillé présentant les différentes étapes :
+o Business Understanding
+o Data Understanding
+o Data Exploration
+o Data Preparation
+o Segmentation
+o Classification
+o Évaluation et interprétation des résultats
+• Un fichier contenant les données nettoyées et préparées, après l'ensemble des transformations réalisées.
+• Une présentation de 10 minutes présentant de manière concise :
+o le contexte et la problématique ;
+o les principales observations lors de l'exploration ;
+o les problèmes identifiés dans les données ;
+o les techniques de nettoyage et de transformation appliquées ;
+o la démarche de segmentation ;
+o la démarche de classification ;
+o les principaux résultats et leur interprétation.
